@@ -64,7 +64,7 @@ class _MyHomePageState extends State<MyHomePage> {
     return SafeArea(
       child: Scaffold(
         appBar: AppBar(
-          title: Text('Parsing data using GraphQL',
+          title: Text('Mutation for GraphQL',
           ),
         ),
         body: null,
